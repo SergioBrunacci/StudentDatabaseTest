@@ -1,0 +1,4 @@
+#Mon Nov 27 20:45:14 EST 2017
+base.0=/Users/sergiodealmeidabrunacci/Mobile_Developer/Android/Lesson7 Examples/StudentDatabaseTest/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/sergiodealmeidabrunacci/Mobile_Developer/Android/Lesson7 Examples/StudentDatabaseTest/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

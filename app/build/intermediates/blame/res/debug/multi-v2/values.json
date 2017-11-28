@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sergiodealmeidabrunacci/Mobile_Developer/Android/Lesson7 Examples/StudentDatabaseTest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sergiodealmeidabrunacci/Mobile_Developer/Android/Lesson7 Examples/StudentDatabaseTest/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,7,5",
+                        "startColumns": "4,4,1,1,1",
+                        "startOffsets": "136,59,244,296,192",
+                        "endColumns": "57,75,50,48,50",
+                        "endOffsets": "189,130,293,343,241"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,113,189,243,295",
+                        "endColumns": "57,75,53,51,53",
+                        "endOffsets": "108,184,238,290,344"
+                    }
+                }
+            ]
+        }
+    ]
+}

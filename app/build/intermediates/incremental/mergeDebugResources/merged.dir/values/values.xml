@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Registration</string>
+    <string name="hello">Hello World, StudentDatabaseTestActivity!</string>
+    <string name="program_name">Program Name</string>
+    <string name="student_actions">Actions</string>
+    <string name="student_name">Student Name</string>
+</resources>
